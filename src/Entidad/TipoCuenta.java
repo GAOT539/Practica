@@ -9,5 +9,5 @@ package Entidad;
  * @author GAOT
  */
 public enum TipoCuenta {
-    
+    CORRIENTE, AHORROS;
 }
