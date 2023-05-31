@@ -6,7 +6,7 @@ package Entidad;
 
 /**
  *
- * @author GAOT
+ * @author GAOT, paola, elian
  */
 public enum TipoCuenta {
     CORRIENTE, AHORROS;
