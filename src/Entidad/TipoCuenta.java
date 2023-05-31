@@ -6,7 +6,7 @@ package Entidad;
 
 /**
  *
- * @author GAOT, paola, elian, Esta es una practica en comentarios
+ * @author GAOT, paola, elian, Esta es una practica en comentarios bdbd
  */
 public enum TipoCuenta {
     CORRIENTE, AHORROS;
